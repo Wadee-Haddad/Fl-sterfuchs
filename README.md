@@ -1,4 +1,4 @@
-# Flüsterfuchs Keylogger
+# Flüsterfuchs Keylogger 🦊🤖
 
 ### **Flüsterfuchs is a cyberweapon (malware) keylogger implemented in Python for educational purposes. It captures keyboard input and associates it with the foreground process (active window). The graphical user interface (GUI) is built using the Tkinter library for ease of use. 🦊**
 
@@ -14,6 +14,9 @@
 2. **Color-coded Output:** The output in the GUI is color-coded based on the foreground process.
 3. **Start/Stop Control:** The keylogger can be started and stopped through the GUI.
 
+![image](https://github.com/Wadee-Haddad/Fl-sterfuchs/assets/117990238/df15cb3d-e511-4e54-a3d7-87d5441e82da)
+
+
 ## Implementation Details
 
 ### Libraries Used
@@ -23,6 +26,9 @@
 - **tkinter:** Used for creating the graphical user interface (GUI).
 
 ### Windows API Functions
+
+![image](https://github.com/Wadee-Haddad/Fl-sterfuchs/assets/117990238/43201550-93df-4952-873d-a8040b736511)
+
 
 1. **GetForegroundWindow:** Retrieves the handle to the foreground window.
 2. **GetWindowTextLengthA and GetWindowTextA:** Retrieve the length and text of the window title.
@@ -43,6 +49,9 @@
 
 ## GUI
 
+![image](https://github.com/Wadee-Haddad/Fl-sterfuchs/assets/117990238/3a40971e-8d1d-407c-9b10-ea3965d4ebdc)
+
+
 - **Start Keylogger Button:** Initiates the keylogging process.
 - **Stop Keylogger Button:** Stops the keylogging process.
 - **Output Text Area:** Displays the captured keyboard input.
@@ -59,8 +68,8 @@ Flüsterfuchs is an educational project. Unauthorized use of keyloggers is illeg
 
 ## Credits
 
-Developed by [Your Name] for educational purposes.
+Developed by Wadee-_-haddad / Tom-Jasper for educational purposes.
 
 ## License
 
-Flüsterfuchs is released under the [License Name] license. See the LICENSE file for more details.
+Flüsterfuchs is released under the CyberAliens license.

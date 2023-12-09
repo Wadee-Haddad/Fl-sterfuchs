@@ -1,12 +1,12 @@
 # Flüsterfuchs Keylogger
 
+### **Flüsterfuchs is a cyberweapon (malware) keylogger implemented in Python for educational purposes. It captures keyboard input and associates it with the foreground process (active window). The graphical user interface (GUI) is built using the Tkinter library for ease of use. 🦊**
 
 
 ![github-d](https://github.com/Wadee-Haddad/Fl-sterfuchs/assets/117990238/0a9b6e6e-f752-4e31-9c85-81a06ca93be4)
 
 
 
-Flüsterfuchs is a cyberweapon (malware) keylogger implemented in Python for educational purposes. It captures keyboard input and associates it with the foreground process (active window). The graphical user interface (GUI) is built using the Tkinter library for ease of use.
 
 ## Features
 

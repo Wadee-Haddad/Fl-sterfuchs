@@ -168,7 +168,7 @@ ascii_logo = """
                                                                                     
     """
 
-root.after(1000, hide_ascii_logo)  # Schedule the logo to disappear after 3000 milliseconds
+root.after(1000, hide_ascii_logo)
 
 ascii_logo_label = Label(root, text=ascii_logo, font=("Courier", 12), bg="#1E1E1E", fg="#FF7F00")
 
